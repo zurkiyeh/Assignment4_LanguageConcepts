@@ -1,3 +1,4 @@
+#test
 
 # A class to store a player, has a name and char which can be either 'x' or 'o'
 
@@ -21,7 +22,17 @@ class Move
 
 end
 
-# A class to hold a game object
+
+=begin
+	
+class Dog  
+  def initialize(breed, name)  
+    # Instance variables  
+    @breed = breed  
+    @name = name  
+  end  
+	
+=end
 class Game
 	attr_accessor :Player1, :Player2, :board, :bool_board
 
