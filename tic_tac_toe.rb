@@ -1,3 +1,4 @@
+#test
 
 # A class to store a player, has a name and char which can be either 'x' or 'o'
 
@@ -9,6 +10,8 @@ class Player
 		@symbol = _symbol
 	end
 end
+
+
 
 
 =begin
