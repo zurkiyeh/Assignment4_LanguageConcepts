@@ -4,11 +4,107 @@
 		"selected_items":
 		[
 			[
-				"check",
-				"check_attack"
+				"ti",
+				"tic_tac_toe"
 			],
 			[
 				"che",
+				"check_for_tie"
+			],
+			[
+				"bool",
+				"boolBoard"
+			],
+			[
+				"_pl",
+				"_plyr2"
+			],
+			[
+				"inp",
+				"input_flag"
+			],
+			[
+				"Be",
+				"begin"
+			],
+			[
+				"_",
+				"_plyr1"
+			],
+			[
+				"pl",
+				"plyr"
+			],
+			[
+				"sub",
+				"submit_move"
+			],
+			[
+				"game",
+				"game_over"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"y",
+				"_yCoor"
+			],
+			[
+				"x",
+				"_xCoor"
+			],
+			[
+				"boo",
+				"bool_board"
+			],
+			[
+				"chec",
+				"chech_win"
+			],
+			[
+				"sym",
+				"symbol"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"print",
+				"print_board"
+			],
+			[
+				"Pla",
+				"Player"
+			],
+			[
+				"Player",
+				"Player2"
+			],
+			[
+				"P",
+				"Player1"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"q",
+				"queen_array"
+			],
+			[
+				"be",
+				"begin\tbegin … rescue … end"
+			],
+			[
+				"qu",
+				"queen"
+			],
+			[
+				"check",
 				"check_attack"
 			],
 			[
@@ -20,16 +116,8 @@
 				"queen_array"
 			],
 			[
-				"y",
-				"yLocation"
-			],
-			[
 				"Que",
 				"Queen"
-			],
-			[
-				"x",
-				"xLocation"
 			],
 			[
 				"poin",
@@ -69,13 +157,22 @@
 			}
 		},
 		{
-			"file": "q2_ruby.rb",
+			"file": "test.rb",
 			"settings":
 			{
-				"buffer_size": 2338,
+				"buffer_size": 1061,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tic_tac_toe.rb",
+			"settings":
+			{
+				"buffer_size": 3625,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "q2_ruby.rb"
+				"name": "tic_tac_toe.rb"
 			}
 		}
 	],
@@ -115,7 +212,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 153.0,
 		"history":
 		[
 		]
@@ -131,6 +228,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/AnasZ/Dropbox/Fall 2017/Programming Language Concepts (CSI 3120 )/Assignments/Assignment 4/Question_3/\tfrom C",
+		"/C/Users/AnasZ/Dropbox/Fall 2017/Programming Language Concepts (CSI 3120 )/Assignments/Assignment 4/Question_3/test.rb",
 		"/C/Users/AnasZ/Dropbox/Fall 2017/Programming Language Concepts (CSI 3120 )/Assignments/Assignment 4/Question_3/[shell_cmd",
 		"/C/Users/AnasZ/Dropbox/desktop.ini",
 		"/C/Users/AnasZ/Desktop/Ruby/test.rb",
@@ -147,7 +246,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 52.0
 	},
 	"find_in_files":
 	{
@@ -161,6 +260,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"return",
+			"return won",
+			"return wom",
 			"assert",
 			"color",
 			"Color",
@@ -188,7 +290,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -204,8 +306,8 @@
 						"selection":
 						[
 							[
-								336,
-								480
+								79,
+								79
 							]
 						],
 						"settings":
@@ -214,7 +316,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 130.0,
+						"translation.y": 68.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -222,29 +324,57 @@
 				},
 				{
 					"buffer": 1,
-					"file": "q2_ruby.rb",
+					"file": "test.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2338,
+						"buffer_size": 1061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1455,
-								1455
+								1026,
+								855
 							]
 						],
 						"settings":
 						{
-							"auto_name": "q2_ruby.rb",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 659.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tic_tac_toe.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"auto_name": "tic_tac_toe.rb",
 							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1023.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -255,11 +385,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 47.0
 	},
 	"input":
 	{
-		"height": 46.0
+		"height": 47.0
 	},
 	"layout":
 	{
@@ -286,7 +416,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 362.0
+		"height": 245.0
 	},
 	"output.find_results":
 	{
@@ -296,7 +426,7 @@
 	"project": "q3.sublime-project",
 	"replace":
 	{
-		"height": 53.0
+		"height": 89.0
 	},
 	"save_all_on_build": true,
 	"select_file":
